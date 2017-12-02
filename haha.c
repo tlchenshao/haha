@@ -14,7 +14,7 @@ very new thing
 int main()
 {
   //just use  
-  printf("haha\n");
+  printf("oooo\n");
   return 0;
   //make different
 }
