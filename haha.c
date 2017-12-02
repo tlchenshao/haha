@@ -1,13 +1,5 @@
 #include<stdio.h>
 
-
-
-very new thing
-
-
-//????????????
-
-//myvs2008
 int main()
 {
   //just use  
